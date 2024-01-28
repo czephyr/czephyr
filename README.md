@@ -18,7 +18,7 @@ Computer Science is super interesting 📖 </br>
 My interests are smooth operations, scaling, System Design and Machine Learning.
 
 * Studying for my master's degree in Data Science.
-* Working with mostly opensource self-hosted tools as R&D DevOps Engineer in the Telecom sector for a non-profit.
+* Working with mostly opensource self-hosted tools </br> as R&D DevOps Engineer in the Telecom sector for a non-profit.
 
 #### What 2024 will hopefully bring me 🌱
 
