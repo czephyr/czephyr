@@ -18,7 +18,7 @@ Hello 👋
 
 </br>
 
-Computer Science is super interesting 📖. 
+Computer Science is super interesting 📖. </br>
 My interests are smooth operations, scaling, System Design and Machine Learning.
 
 </br>
