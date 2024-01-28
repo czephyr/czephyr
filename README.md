@@ -22,6 +22,7 @@ My interests are smooth operations, scaling, System Design and Machine Learning.
 
 #### What 2024 will hopefully bring me 🌱
 
+* Getting good at Leetcoding
 * Better system design skills
 * Learning Go
 * A GCP certification
