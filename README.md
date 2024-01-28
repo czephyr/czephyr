@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### tldr:
+### tldr 💤
 Computer Science is super interesting 📖. </br>
 My interests are smooth operations, scaling, System Design and Machine Learning.
 
@@ -28,7 +28,7 @@ My interests are smooth operations, scaling, System Design and Machine Learning.
 * Mastering Pytorch
 * Some more Machine Learning
 
-#### Some of the stuff I know 🚀
+#### Some of the stuff I know
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=36 height=36 />        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=36 height=36 />
