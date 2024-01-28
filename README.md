@@ -25,7 +25,7 @@ My interests are smooth operations, scaling, System Design and Machine Learning.
 * Better system design skills
 * Learning Go
 * A GCP certification
-* Learning Pytorch
+* Mastering Pytorch
 * Some more Machine Learning
 
 #### Some of the stuff I know 🚀
