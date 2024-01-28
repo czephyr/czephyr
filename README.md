@@ -1,5 +1,3 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czephyr)](https://github.com/czephyr/github-readme-stats)
 <!--
 **czephyr/czephyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello 👋
+======================
+
+</br>
+
+Computer Science is super interesting. 
+
+</br>
+
+* 🌍    Currently living in Milan.
+* 🎓    Studying for my master's degree in Data Science.
+* 💼    Working as DevOps engineer in the Telecom sector for a non-profit.
+
+</br>
+
+#### What 2024 will hopefully bring me 🌱
+
+* Better system design skills
+* Learning Go
+* A GCP certification
+* Learning Pytorch
+* Some more Machine Learning
+
+</br>
+
+#### Some of the stuff I know 🚀
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=36 height=36 />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=36 height=36 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width=36 height=36 />                    
+</p>
+
+[![czephyr's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=czephyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
