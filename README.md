@@ -18,13 +18,14 @@ Hello 👋
 
 </br>
 
-Computer Science is super interesting. 
+Computer Science is super interesting 📖. 
+My interests are smooth operations, scaling, System Design and Machine Learning.
 
 </br>
 
 * 🌍    Currently living in Milan.
 * 🎓    Studying for my master's degree in Data Science.
-* 💼    Working as DevOps engineer in the Telecom sector for a non-profit.
+* 💼    Working as R&D DevOps Engineer in the Telecom sector for a non-profit.
 
 </br>
 
@@ -48,5 +49,7 @@ Computer Science is super interesting.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width=36 height=36 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width=36 height=36 />                    
 </p>
+
+</br>
 
 [![czephyr's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=czephyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
