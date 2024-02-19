@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### tldr
-Computer Science is super interesting 📖 </br>
+#### tldr 📖
+Computer Science is super interesting  </br>
 My interests are smooth operations, scaling, System Design and Machine Learning.
 
 * Studying for my master's degree in Data Science.
