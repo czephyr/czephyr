@@ -41,6 +41,11 @@ My interests are smooth operations, scaling, System Design and Machine Learning.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width=36 height=36 />                    
 </p>
 
+#### A brief list of interesting books I loved 📚
+
+* [Applied Unsupervised Learning with Python](https://www.packtpub.com/en-it/product/applied-unsupervised-learning-with-python-9781789952292?=type=ebook)
+
+
 </br>
 
 [![czephyr's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=czephyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
