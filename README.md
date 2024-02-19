@@ -43,7 +43,7 @@ My interests are smooth operations, scaling, System Design and Machine Learning.
 
 #### A brief list of interesting books I loved 📚
 
-* [Applied Unsupervised Learning with Python](https://www.packtpub.com/en-it/product/applied-unsupervised-learning-with-python-9781789952292?=type=ebook)
+* [Applied Unsupervised Learning with Python](https://www.packtpub.com/en-it/product/applied-unsupervised-learning-with-python-9781789952292?=type=ebook) (clustering and dimension reduction)
 
 
 </br>
