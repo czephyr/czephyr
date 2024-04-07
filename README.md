@@ -15,20 +15,21 @@ Here are some ideas to get you started:
 
 #### tldr 📖
 Computer Science is super interesting  </br>
-My interests are smooth operations, scaling, System Design and Machine Learning.
+My interests are smooth operations, scaling, observability, System Design and Machine Learning.
 
 * Studying for my master's degree in Data Science.
 * Working with mostly opensource self-hosted tools </br> as R&D DevOps Engineer in the Telecom sector for a non-profit.
 
-#### What 2024 will hopefully bring me 🌱
+#### What 2024 will bring me (won't accomplish everything probably and its fine!) 🌱
 
 * Improving at Data Structures and Algorithms
-* Better system design skills
+* Better System Design skills
 * Learning Go
 * A GCP certification
 * Switching to Pytorch
-* Impactful machine learning applications
+* Working with impactful machine learning applications
 * Delve into recommending systems
+* Understand GenAI
 
 #### Some of the stuff I know
 <p align="left">
