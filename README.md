@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 #### tldr 📖
 Computer Science is super interesting  </br>
-My interests are smooth operations, scaling, observability, System Design and Machine Learning.
+My dev interests are smooth operations, scaling, observability, System Design and Machine Learning.
 
 * Studying for my master's degree in Data Science.
 * Working with mostly opensource self-hosted tools </br> as R&D DevOps Engineer in the Telecom sector for a non-profit.
