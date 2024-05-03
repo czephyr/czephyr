@@ -29,7 +29,7 @@ My dev interests are smooth operations, scaling, observability, System Design an
 * Switching to Pytorch
 * Working with impactful machine learning applications
 * Delve into recommending systems
-* Understand GenAI
+* A deeper understanding of GenAI
 
 #### Some of the stuff I know
 <p align="left">
