@@ -24,7 +24,7 @@ My interests are smooth operations, scaling, observability, System Design and Ma
 
 * Improving at Data Structures and Algorithms
 * Better System Design skills
-* Learning Go [If thats a goals of yours too I suggest starting from learning Go with TDD!](https://quii.gitbook.io/learn-go-with-tests)
+* Learning Go [[If thats a goals of yours too I suggest starting from learning Go with TDD!]](https://quii.gitbook.io/learn-go-with-tests)
 * A GCP certification
 * Switching to Pytorch
 * Working with impactful machine learning applications
