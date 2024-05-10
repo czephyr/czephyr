@@ -45,6 +45,7 @@ My dev interests are smooth operations, scaling, observability, System Design an
 #### A brief list of interesting books I loved 📚
 
 * [Applied Unsupervised Learning with Python](https://www.packtpub.com/en-it/product/applied-unsupervised-learning-with-python-9781789952292?=type=ebook) (clustering and dimension reduction)
+* [System Design - Alex Xu from ByteByteGo](https://www.goodreads.com/en/book/show/54109255) (cool real world system design case studies)
 * ...
 
 </br>
