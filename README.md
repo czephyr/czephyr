@@ -52,5 +52,5 @@ My dev interests are smooth operations, scaling, observability, System Design an
 
 </br>
 
-#### Numbers don't matter, but these are the technologies I work with
+#### It's not like numbers matter
 [![czephyr's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=czephyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
