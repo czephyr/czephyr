@@ -42,8 +42,9 @@ My dev interests are smooth operations, scaling, observability, System Design an
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width=36 height=36 />                    
 </p>
 
-#### A brief list of interesting books I loved 📚
+#### A brief list of interesting resources I loved 📚
 
+* [CKA training - Mumshad Mannambeth on Coursera](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) (kindly paid by my company)
 * [An introduction to Statistical Learning - Springer](https://www.statlearning.com/) (suggested reading from the Statistical Learning exam in my masters)
 * [Applied Unsupervised Learning with Python](https://www.packtpub.com/en-it/product/applied-unsupervised-learning-with-python-9781789952292?=type=ebook) (clustering and dimensionality reduction)
 * [System Design vol.1 - Alex Xu from ByteByteGo](https://www.goodreads.com/en/book/show/54109255) (cool real world system design case studies)
