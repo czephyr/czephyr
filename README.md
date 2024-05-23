@@ -44,11 +44,11 @@ My dev interests are smooth operations, scaling, observability, System Design an
 
 #### A brief list of interesting resources I loved 📚
 
-* [CKA training - Mumshad Mannambeth on Coursera](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) (kindly paid by my company)
-* [An introduction to Statistical Learning - Springer](https://www.statlearning.com/) (suggested reading from the Statistical Learning exam in my masters)
-* [Applied Unsupervised Learning with Python](https://www.packtpub.com/en-it/product/applied-unsupervised-learning-with-python-9781789952292?=type=ebook) (clustering and dimensionality reduction)
-* [A Crash Course in Linux Networking - David Guyton](https://datahacker.blog/index.php?preview=1&option=com_dropfiles&format=&task=frontfile.download&catid=67&id=32&Itemid=1000000000000) (helped me understand iptables)
-* [System Design vol.1 - Alex Xu from ByteByteGo](https://www.goodreads.com/en/book/show/54109255) (cool real world system design case studies)
+* CKA training - Mumshad Mannambeth on Coursera [[-]](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) (kindly paid by my company)
+* An introduction to Statistical Learning - Springer [[-]](https://www.statlearning.com/) (suggested reading from the Statistical Learning exam in my masters)
+* Applied Unsupervised Learning with Python [[-]](https://www.packtpub.com/en-it/product/applied-unsupervised-learning-with-python-9781789952292?=type=ebook) (clustering and dimensionality reduction)
+* A Crash Course in Linux Networking - David Guyton [[-]](https://datahacker.blog/index.php?preview=1&option=com_dropfiles&format=&task=frontfile.download&catid=67&id=32&Itemid=1000000000000) (helped me understand iptables)
+* System Design vol.1 - Alex Xu from ByteByteGo [[-]](https://www.goodreads.com/en/book/show/54109255) (cool real world system design case studies)
 * ...
 
 </br>
