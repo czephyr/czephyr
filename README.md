@@ -44,6 +44,7 @@ My dev interests are smooth operations, scaling, observability, System Design an
 
 #### A brief list of interesting resources I loved 📚
 
+* TCP/IP Guide - Kozierok [[-]](http://www.tcpipguide.com/buybook.htm) (If only this had been the suggested reading for my networking exam... ç_ç)
 * CKA training - Mumshad Mannambeth on Coursera [[-]](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) (kindly paid by my company)
 * An introduction to Statistical Learning - Springer [[-]](https://www.statlearning.com/) (suggested reading from the Statistical Learning exam in my masters)
 * Applied Unsupervised Learning with Python [[-]](https://www.packtpub.com/en-it/product/applied-unsupervised-learning-with-python-9781789952292?=type=ebook) (clustering and dimensionality reduction)
@@ -53,5 +54,5 @@ My dev interests are smooth operations, scaling, observability, System Design an
 
 </br>
 
-#### It's not like numbers matter
+#### Numbers don't matter but here's what I work with
 [![czephyr's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=czephyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
