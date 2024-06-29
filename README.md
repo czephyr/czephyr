@@ -72,6 +72,7 @@ My dev interests are smooth operations, scaling, observability, System Design an
 * Kubernetes the Hard way - Kelsey Hightower [[-]](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * Programming Kubernetes - Hausenblas, Schimanski [[-]](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/)
 * Distributed Systems for fun and profit [[-]](https://book.mixu.net/distsys/single-page.html)
+* Designing Data-intensive applications - Kleppmann [[-]](https://dataintensive.net/)
 * ...
 
 </br>
