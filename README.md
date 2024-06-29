@@ -62,7 +62,7 @@ My dev interests are smooth operations, scaling, observability, System Design an
 * Machine Learning System Design -  Ali Aminian, Alex Xu from ByteByteGo [[-]](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127)
 * WYAG: Write yourself a Git - Thibault Polge [[-]](https://wyag.thb.lt/)
 * Kubernetes the Hard way - Kelsey Hightower [[-]](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-...
+* ...
 
 </br>
 
