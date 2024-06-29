@@ -44,21 +44,29 @@ My dev interests are smooth operations, scaling, observability, System Design an
 
 #### A brief list of interesting resources I loved 📚
 
-* Principles of Economics - Mankiw [[-]](https://en.wikipedia.org/wiki/Principles_of_Economics_(Mankiw_book)) (Intro to economics)
-* TCP/IP Guide - Kozierok [[-]](http://www.tcpipguide.com/buybook.htm) (If only this had been the suggested reading for my networking exam... ç_ç)
 * Machine Learning Engineering - Andriy Burkov [[-]](http://www.mlebook.com/wiki/doku.php) (A general overview of ML projects)
 * d2l.ai Dive Deep into Deep Learning [[-]](https://d2l.ai/) (Absolutely the best Deep Learning resource out there FWIK)
-* CKA training - Mumshad Mannambeth on Coursera [[-]](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) (kindly paid for by my company)
 * An introduction to Statistical Learning - Springer [[-]](https://www.statlearning.com/) (suggested reading from the Statistical Learning exam in my masters)
 * Applied Unsupervised Learning with Python [[-]](https://www.packtpub.com/en-it/product/applied-unsupervised-learning-with-python-9781789952292?=type=ebook) (clustering and dimensionality reduction)
+</br>
+
+* TCP/IP Guide - Kozierok [[-]](http://www.tcpipguide.com/buybook.htm) (If only this had been the suggested reading for my networking exam... ç_ç)
+* CKA training - Mumshad Mannambeth on Coursera [[-]](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) (kindly paid for by my company)
 * A Crash Course in Linux Networking - David Guyton [[-]](https://datahacker.blog/index.php?preview=1&option=com_dropfiles&format=&task=frontfile.download&catid=67&id=32&Itemid=1000000000000) (helped me understand iptables)
 * System Design vol.1 - Alex Xu from ByteByteGo [[-]](https://www.goodreads.com/en/book/show/54109255) (cool real world system design case studies)
+</br>
+
+
+* Principles of Economics - Mankiw [[-]](https://en.wikipedia.org/wiki/Principles_of_Economics_(Mankiw_book)) (Intro to economics)
+</br>
+
+
 * ...
 
 #### Stuff I want to eventually come around to 📋
 
 * How Linux Works -  Brian Ward [[-]](https://nostarch.com/howlinuxworks3) 
-* Site Reliability Engineering: How Google Runs Production Systems [[-]](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/)
+* Site Reliability Engineering: How Google Runs Production Systems [[-]](https://sre.google/books/)
 * Machine Learning System Design -  Ali Aminian, Alex Xu from ByteByteGo [[-]](https://www.amazon.com/Machine-Learning-System-Design-Interview/dp/1736049127)
 * WYAG: Write yourself a Git - Thibault Polge [[-]](https://wyag.thb.lt/)
 * Kubernetes the Hard way - Kelsey Hightower [[-]](https://github.com/kelseyhightower/kubernetes-the-hard-way)
