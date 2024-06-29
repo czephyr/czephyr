@@ -55,7 +55,7 @@ My dev interests are smooth operations, scaling, observability, System Design an
 * System Design vol.1 - Alex Xu from ByteByteGo [[-]](https://www.goodreads.com/en/book/show/54109255) (cool real world system design case studies)
 * ...
 
-#### Stuff I want to come around to 📋
+#### Stuff I want to eventually come around to 📋
 
 * How Linux Works -  Brian Ward [[-]](https://nostarch.com/howlinuxworks3) 
 * Site Reliability Engineering: How Google Runs Production Systems [[-]](https://www.oreilly.com/library/view/site-reliability-engineering/9781491929117/)
@@ -66,5 +66,5 @@ My dev interests are smooth operations, scaling, observability, System Design an
 
 </br>
 
-#### Numbers don't matter but here's what I work with
+#### Numbers don't matter but here's what I work with 🛠️
 [![czephyr's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=czephyr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
