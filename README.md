@@ -73,6 +73,7 @@ My dev interests are smooth operations, scaling, observability, System Design an
 * Programming Kubernetes - Hausenblas, Schimanski [[-]](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/)
 * Distributed Systems for fun and profit [[-]](https://book.mixu.net/distsys/single-page.html)
 * Designing Data-intensive applications - Kleppmann [[-]](https://dataintensive.net/)
+* Building GPT-2 from scratch - Andrej Karpathy [[-]](https://youtu.be/l8pRSuU81PU?si=OWAPUlD0ED6Nn5Y5)
 * ...
 
 </br>
