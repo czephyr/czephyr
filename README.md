@@ -74,6 +74,7 @@ My dev interests are smooth operations, scaling, observability, System Design an
 * Distributed Systems for fun and profit [[-]](https://book.mixu.net/distsys/single-page.html)
 * Designing Data-intensive applications - Kleppmann [[-]](https://dataintensive.net/)
 * Building GPT-2 from scratch - Andrej Karpathy [[-]](https://youtu.be/l8pRSuU81PU?si=OWAPUlD0ED6Nn5Y5)
+* Let's read the Kubernetes source code - Ants Are Everywhere [[-]](https://www.youtube.com/watch?v=F8dZMKP6xyg) 
 * ...
 
 </br>
