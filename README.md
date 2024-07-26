@@ -54,6 +54,7 @@ My dev interests are smooth operations, scaling, observability, System Design an
 * CKA training - Mumshad Mannambeth on Coursera [[-]](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) (kindly paid for by my company)
 * A Crash Course in Linux Networking - David Guyton [[-]](https://datahacker.blog/index.php?preview=1&option=com_dropfiles&format=&task=frontfile.download&catid=67&id=32&Itemid=1000000000000) (helped me understand iptables)
 * System Design vol.1 - Alex Xu from ByteByteGo [[-]](https://www.goodreads.com/en/book/show/54109255) (cool real world system design case studies)
+* Observability Engineering [[-]](https://info.honeycomb.io/observability-engineering-oreilly-book-2022) (how to use tracing for observability)
 </br>
 
 
