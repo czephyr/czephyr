@@ -32,11 +32,11 @@ My dev interests are smooth operations, scaling, observability, System Design an
 </br>
 
 * TCP/IP Guide - Kozierok [[-]](http://www.tcpipguide.com/buybook.htm) (If only this had been the suggested reading for my networking exam... ç_ç)
-* A Crash Course in Linux Networking - Guyton [[-]](https://datahacker.blog/index.php?preview=1&option=com_dropfiles&format=&task=frontfile.download&catid=67&id=32&Itemid=1000000000000)
-* The Linux Programming Interface - Kerrisk [[-]](https://man7.org/tlpi/)
-* Designing Data-Intensive Applications - Kleppmann [[-]](https://dataintensive.net/)
-* Operating Systems: Three easy pieces - Arpaci [[-]](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-* Systems Performance - Gregg [[-]](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
+* A Crash Course in Linux Networking - Guyton [[-]](https://datahacker.blog/index.php?preview=1&option=com_dropfiles&format=&task=frontfile.download&catid=67&id=32&Itemid=1000000000000) (Hard to find a structured resource around linux iptables and ip rules)
+* The Linux Programming Interface - Kerrisk [[-]](https://man7.org/tlpi/) (Using linux syscalls)
+* Designing Data-Intensive Applications - Kleppmann [[-]](https://dataintensive.net/) (Must read to understand modern databases)
+* Operating Systems: Three easy pieces - Arpaci [[-]](https://pages.cs.wisc.edu/~remzi/OSTEP/) (The most intuitive and easy to read OS book I've encountered)
+* Systems Performance - Gregg [[-]](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html) (Linux performance tooling)
 </br>
 
 
@@ -64,4 +64,4 @@ My dev interests are smooth operations, scaling, observability, System Design an
 </br>
 
 #### What I work with
-[![czephyr's WakaTime stats](https://kayan-github-profile-projects-featu.vercel.app/api/wakatime?username=czephyr&layout=compact)]
+![czephyr's WakaTime stats](https://kayan-github-profile-projects-featu.vercel.app/api/wakatime?username=czephyr&layout=compact)
