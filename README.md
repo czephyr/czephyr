@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 Tech is interesting  </br>
 Currently working in Cloud </br>
 My dev interests are smooth operations, scaling, observability, System Design and Machine Learning.
-#### What 2026 will bring me 🌱
+#### What 2026 will bring me 
 
 * More system design studying 
 * More Go [Learning Go with TDD is cool! [[-]](https://quii.gitbook.io/learn-go-with-tests)]
 * More performance observability
 
-#### A brief list of interesting resources I loved 📚
+#### A brief list of interesting resources I loved
 
 * Machine Learning Engineering - Burkov [[-]](http://www.mlebook.com/wiki/doku.php) (A general overview of the shape of ML projects)
 * d2l.ai Dive Deep into Deep Learning [[-]](https://d2l.ai/) (Absolutely the best Deep Learning resource out there FWIK)
@@ -46,7 +46,7 @@ My dev interests are smooth operations, scaling, observability, System Design an
 
 * ...
 
-#### Stuff I want to eventually come around to 📋
+#### Stuff I want to eventually come around to
 
 * How Linux Works -  Brian Ward [[-]](https://nostarch.com/howlinuxworks3) 
 * Site Reliability Engineering: How Google Runs Production Systems [[-]](https://sre.google/books/)
@@ -63,5 +63,5 @@ My dev interests are smooth operations, scaling, observability, System Design an
 
 </br>
 
-#### Numbers don't matter but here's what I work with 🛠️
-[![czephyr's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=czephyr&layout=compact)]
+#### What I work with
+[![czephyr's WakaTime stats](https://kayan-github-profile-projects-featu.vercel.app/api/wakatime?username=czephyr&layout=compact)]
