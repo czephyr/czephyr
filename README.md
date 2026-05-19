@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 #### tldr
 Tech is interesting  </br>
-Currently working in 🇪🇺 Cloud </br>
+Currently working in Cloud </br>
 My dev interests are smooth operations, scaling, observability, System Design and Machine Learning.
 #### What 2026 will bring me 
 
