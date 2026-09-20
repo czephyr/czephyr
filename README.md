@@ -64,4 +64,4 @@ My dev interests are smooth operations, scaling, observability, System Design an
 </br>
 
 #### What I work with
-![czephyr's WakaTime stats](https://kayan-github-profile-projects-featu.vercel.app/api/wakatime?username=czephyr&layout=compact)
+![czephyr's WakaTime stats](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=czephyr&theme=nord&hide_border=true&layout=compact)
